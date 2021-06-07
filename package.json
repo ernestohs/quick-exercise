@@ -1,0 +1,16 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "Quick exercise",
+  "main": "src/exercise.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage --no-cache"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
